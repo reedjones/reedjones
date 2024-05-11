@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reed</h1>
+<h1 align="center">Reed</h1>
 <h3 align="left">I'm interested in AI, Cyber Security, and Programming.</h3>
 <h4>I also make Art and Music. <br> And <i>I'm trying to write... more.</i></h4>
  
